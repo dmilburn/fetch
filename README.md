@@ -1,3 +1,5 @@
+A test, please disregard
+
 # window.fetch polyfill
 
 The `fetch()` function is a Promise-based mechanism for programmatically making
